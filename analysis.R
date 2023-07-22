@@ -606,4 +606,4 @@ filter_and_report <- function(purpose, position_taken = NULL) {
 #    functions are useful? What might you do next if you had more time?
 filter_positions("Enviroment", "Saving")
 filter_and_report("Enviroment", "Saving")
-If I have more time, I would like to do more trials to test these functions. 
+# If I have more time, I would like to do more trials to test these functions. 
